@@ -70,4 +70,5 @@ VALUES
   ('William', 'Carleton', 'wcarleton@literature.com'),
   ('Gerald', 'Griffin', 'ggriff@lit.net');
 
-INSERT INTO votes (voter_id, candidate_id) VALUES(1, 1), (2, 1);
+INSERT INTO votes (voter_id, candidate_id) 
+VALUES(3,1), (4,2), (5,2), (6,2), (7,2), (8,3), (9,3);
